@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-kt899h.replytifinatwork.com/sitemap.xml
